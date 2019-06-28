@@ -1,0 +1,626 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6bb219ec-2afa-48b5-ad0f-fe5a7d514244" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/hamcrest_all_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/junit_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/Test/AddUnspecifiedInputsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/Test/CapitalLetterTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/Test/CharacterRepeatTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/Test/IterationTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/Test/OddorEvenTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/Test/PalindromeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/Test/SortTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/Test/StringreverseTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/Test/TargetnumberTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/Test/VowelConsonantTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/sample/Addunspecifiedinputs.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/sample/CharacterRepeat.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/sample/CharacterRepeat.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/sample/Iteration.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/sample/Iteration.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/sample/Palindrome.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/sample/Palindrome.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/sample/Sort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/sample/Sort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/sample/Stringreverse.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/sample/Stringreverse.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/sample/Targetnumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/sample/Targetnumber.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/sample/Tom.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/sample/capitalletter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/sample/consonant.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sample.iml" beforeDir="false" afterPath="$PROJECT_DIR$/sample.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AddUnspecifiedInputs.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CapitalLetter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CharacterRepeat.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Iteration.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OddorEven.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Palindrome.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Sort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Stringreverse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Targetnumber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/VowelConsonant.java" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/Test/IterationTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" column="13" lean-forward="true" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Iteration.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" column="26" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JUnit4 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/Hello.java" />
+        <option value="$PROJECT_DIR$/src/consonant.java" />
+        <option value="$PROJECT_DIR$/src/Iteration.java" />
+        <option value="$PROJECT_DIR$/src/capitalletter.java" />
+        <option value="$PROJECT_DIR$/src/Stringreverse.java" />
+        <option value="$PROJECT_DIR$/src/Tom.java" />
+        <option value="$PROJECT_DIR$/src/Addunspecifiedinputs.java" />
+        <option value="$PROJECT_DIR$/src/Targetnumber.java" />
+        <option value="$PROJECT_DIR$/src/Palindrome.java" />
+        <option value="$PROJECT_DIR$/src/CharacterRepeat.java" />
+        <option value="$PROJECT_DIR$/src/AddUnspecifiedInputs.java" />
+        <option value="$PROJECT_DIR$/src/CapitalLetter.java" />
+        <option value="$PROJECT_DIR$/src/VowelConsonant.java" />
+        <option value="$PROJECT_DIR$/src/OddorEven.java" />
+        <option value="$PROJECT_DIR$/src/Sort.java" />
+        <option value="$PROJECT_DIR$/src/main/java/OddorEven.java" />
+        <option value="$PROJECT_DIR$/src/main/Test/OddorEvenTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Palindrome.java" />
+        <option value="$PROJECT_DIR$/src/main/Test/PalindromeTest.java" />
+        <option value="$PROJECT_DIR$/src/main/Test/VowelConsonantTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/VowelConsonant.java" />
+        <option value="$PROJECT_DIR$/src/main/Test/CapitalLetterTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/CapitalLetter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/CharacterRepeat.java" />
+        <option value="$PROJECT_DIR$/src/main/Test/StringreverseTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Stringreverse.java" />
+        <option value="$PROJECT_DIR$/src/main/java/AddUnspecifiedInputs.java" />
+        <option value="$PROJECT_DIR$/src/main/Test/AddUnspecifiedInputsTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Sort.java" />
+        <option value="$PROJECT_DIR$/src/main/Test/SortTest.java" />
+        <option value="$PROJECT_DIR$/src/main/Test/TargetnumberTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Targetnumber.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Iteration.java" />
+        <option value="$PROJECT_DIR$/src/main/Test/CharacterRepeatTest.java" />
+        <option value="$PROJECT_DIR$/src/main/Test/IterationTest.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="698" />
+    <option name="y" value="61" />
+    <option name="width" value="744" />
+    <option name="height" value="833" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Java-Practice-Ex-1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java-Practice-Ex-1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java-Practice-Ex-1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java-Practice-Ex-1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java-Practice-Ex-1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java-Practice-Ex-1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java-Practice-Ex-1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java-Practice-Ex-1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java-Practice-Ex-1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java-Practice-Ex-1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="Test" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.IterationTest.givenOneStringShouldReturnTypeException">
+    <configuration name="CharacterRepeatTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="sample" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="CharacterRepeatTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CharacterRepeatTest.givenNullStringShouldReturnNull" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="sample" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="CharacterRepeatTest" />
+      <option name="METHOD_NAME" value="givenNullStringShouldReturnNull" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IterationTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="sample" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="IterationTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IterationTest.givenOneStringShouldReturnInteger" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="sample" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="IterationTest" />
+      <option name="METHOD_NAME" value="givenOneStringShouldReturnInteger" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IterationTest.givenOneStringShouldReturnTypeException" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="sample" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="IterationTest" />
+      <option name="METHOD_NAME" value="givenOneStringShouldReturnTypeException" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.IterationTest.givenOneStringShouldReturnTypeException" />
+        <item itemvalue="JUnit.IterationTest.givenOneStringShouldReturnInteger" />
+        <item itemvalue="JUnit.CharacterRepeatTest.givenNullStringShouldReturnNull" />
+        <item itemvalue="JUnit.CharacterRepeatTest" />
+        <item itemvalue="JUnit.IterationTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6bb219ec-2afa-48b5-ad0f-fe5a7d514244" name="Default Changelist" comment="" />
+      <created>1561369392902</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1561369392902</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="IterationTest_givenOneStringShouldReturnInteger - 2019.06.27 at 11h 48m 47s.xml">
+      <configuration name="IterationTest.givenOneStringShouldReturnInteger" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="IterationTest_givenOneStringShouldReturnInteger - 2019.06.27 at 11h 56m 42s.xml">
+      <configuration name="IterationTest.givenOneStringShouldReturnInteger" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="IterationTest_givenOneStringShouldReturnInteger - 2019.06.27 at 11h 57m 24s.xml">
+      <configuration name="IterationTest.givenOneStringShouldReturnInteger" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="IterationTest_givenOneStringShouldReturnInteger - 2019.06.27 at 23h 45m 33s.xml">
+      <configuration name="IterationTest.givenOneStringShouldReturnInteger" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="IterationTest_givenOneStringShouldReturnInteger - 2019.06.28 at 08h 18m 05s.xml">
+      <configuration name="IterationTest.givenOneStringShouldReturnInteger" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CharacterRepeatTest - 2019.06.28 at 08h 22m 47s.xml">
+      <configuration name="CharacterRepeatTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CharacterRepeatTest_givenNullStringShouldReturnNull - 2019.06.28 at 08h 24m 16s.xml">
+      <configuration name="CharacterRepeatTest.givenNullStringShouldReturnNull" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="IterationTest_givenOneStringShouldReturnInteger - 2019.06.28 at 08h 25m 18s.xml">
+      <configuration name="IterationTest.givenOneStringShouldReturnInteger" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="IterationTest_givenOneStringShouldReturnTypeException - 2019.06.28 at 08h 26m 38s.xml">
+      <configuration name="IterationTest.givenOneStringShouldReturnTypeException" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="IterationTest_givenOneStringShouldReturnTypeException - 2019.06.28 at 08h 31m 51s.xml">
+      <configuration name="IterationTest.givenOneStringShouldReturnTypeException" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="67" y="25" width="1533" height="875" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25891057" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.328877" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.29088473" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3994638" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3286119" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32841823" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/Iteration.java" />
+    <entry file="file://$PROJECT_DIR$/src/Hello.java" />
+    <entry file="file://$PROJECT_DIR$/src/Addunspecifiedinputs.java" />
+    <entry file="file://$PROJECT_DIR$/src/capitalletter.java" />
+    <entry file="file://$PROJECT_DIR$/src/consonant.java" />
+    <entry file="file://$PROJECT_DIR$/src/Tom.java" />
+    <entry file="file://$PROJECT_DIR$/src/OddorEven.java" />
+    <entry file="file://$PROJECT_DIR$/src/CharacterRepeat.java" />
+    <entry file="file://$PROJECT_DIR$/src/AddUnspecifiedInputs.java" />
+    <entry file="file://$PROJECT_DIR$/src/CapitalLetter.java" />
+    <entry file="file://$PROJECT_DIR$/src/Stringreverse.java" />
+    <entry file="file://$PROJECT_DIR$/src/Targetnumber.java" />
+    <entry file="file://$PROJECT_DIR$/src/Palindrome.java" />
+    <entry file="file://$PROJECT_DIR$/src/VowelConsonant.java" />
+    <entry file="file://$PROJECT_DIR$/src/Sort.java" />
+    <entry file="file://$USER_HOME$/stackroute/src/main/java/com/stackroute/junitdemo/App.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/OddorEven.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="19" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Palindrome.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="31" lean-forward="true" selection-start-line="17" selection-start-column="31" selection-end-line="17" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/VowelConsonant.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="90" lean-forward="true" selection-start-line="12" selection-start-column="90" selection-end-line="12" selection-end-column="90" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Datamunger/DataMungerStep1_Boilerplate/src/com/stackroute/datamunger/DataMunger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-765" />
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Datamunger/DataMungerStep1_Boilerplate/src/com/stackroute/datamunger/test/DataMungerTestTask1.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/CapitalLetter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="98" selection-start-line="12" selection-start-column="98" selection-end-line="12" selection-end-column="98" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Stringreverse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/AddUnspecifiedInputs.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="1" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/stackroute/src/main/test/com/stackroute/junitdemo/AppTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="301">
+          <caret line="44" column="5" lean-forward="true" selection-start-line="35" selection-start-column="3" selection-end-line="44" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Sort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="416">
+          <caret line="41" column="2" selection-start-line="41" selection-start-column="2" selection-end-line="41" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Targetnumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="12" column="50" selection-start-line="12" selection-start-column="50" selection-end-line="12" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/Test/OddorEvenTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="5" lean-forward="true" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/CharacterRepeat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="64" selection-start-line="9" selection-start-column="64" selection-end-line="9" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/Test/TargetnumberTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="8" column="23" lean-forward="true" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/Test/StringreverseTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="441">
+          <caret line="34" column="25" selection-start-line="34" selection-start-column="25" selection-end-line="34" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/Test/SortTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="32" column="22" selection-start-line="32" selection-start-column="22" selection-end-line="32" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/Test/CharacterRepeatTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="50" selection-start-line="20" selection-start-column="50" selection-end-line="20" selection-end-column="50" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/Test/AddUnspecifiedInputsTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="30" column="30" selection-start-line="30" selection-start-column="30" selection-end-line="30" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/Test/PalindromeTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="20" column="27" selection-start-line="20" selection-start-column="27" selection-end-line="20" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/Test/CapitalLetterTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="51" column="28" selection-start-line="51" selection-start-column="28" selection-end-line="51" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/Test/VowelConsonantTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="29" column="13" lean-forward="true" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Iteration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="26" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/Test/IterationTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="13" lean-forward="true" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>sample</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>hamcrest-all-1.3</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
