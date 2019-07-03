@@ -1,39 +1,37 @@
+import org.junit.After;
+import org.junit.Before;
 import org.junit.Test;
 
 import static org.junit.Assert.*;
 
 public class SortTest {
+    Sort object;
+    @Before
+    public void setUp()
+    {
+       object=new Sort();
+    }
+    @After
+    public void tearDown()
+    {
+    object=null;
+    }
     @Test
     public void givenOneNumberShouldReturnNonIncreasingOrder(){
-        //Arrange
-    Sort object=new Sort();
-        //Act
         String result=object.sort(1234534);
-        //Assert
         assertEquals("5443321",result);
 
     }
     @Test
     public void givenNonIncreasingOrderNumberShouldReturnSumOfEvenDigits(){
-        //Arrange
-        Sort object=new Sort();
-        //Act
         int result=object.add(5443321);
-        //Assert
         assertEquals(10,result);
 
     }
     @Test
-    public void givenShouldReturn(){
-        //Arrange
-        Sort object=new Sort();
-        //Act
+    public void givenNonEvenDigitsShouldReturnZero(){
         int result=object.add(10);
-        //Assert
         assertEquals(0,result);
 
     }
-
-
-
 }

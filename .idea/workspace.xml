@@ -2,41 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6bb219ec-2afa-48b5-ad0f-fe5a7d514244" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/hamcrest_all_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/junit_4_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/Test/AddUnspecifiedInputsTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/Test/CapitalLetterTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/Test/CharacterRepeatTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/Test/IterationTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/Test/OddorEvenTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/Test/PalindromeTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/Test/SortTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/Test/StringreverseTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/Test/TargetnumberTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/Test/VowelConsonantTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sample/Addunspecifiedinputs.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sample/CharacterRepeat.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/sample/CharacterRepeat.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sample/Iteration.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/sample/Iteration.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sample/Palindrome.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/sample/Palindrome.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sample/Sort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/sample/Sort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sample/Stringreverse.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/sample/Stringreverse.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sample/Targetnumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/sample/Targetnumber.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sample/Tom.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sample/capitalletter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sample/consonant.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sample.iml" beforeDir="false" afterPath="$PROJECT_DIR$/sample.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AddUnspecifiedInputs.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CapitalLetter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CharacterRepeat.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Iteration.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OddorEven.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Palindrome.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Sort.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Stringreverse.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Targetnumber.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/VowelConsonant.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/Test/CapitalLetterTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Test/CapitalLetterTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/Test/CharacterRepeatTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Test/CharacterRepeatTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/Test/IterationTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Test/IterationTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/Test/OddorEvenTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Test/OddorEvenTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/Test/PalindromeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Test/PalindromeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/Test/SortTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Test/SortTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/Test/StringreverseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Test/StringreverseTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/Test/TargetnumberTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Test/TargetnumberTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Iteration.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Iteration.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -50,23 +25,27 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/Test/IterationTest.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Targetnumber.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="165">
-              <caret line="11" column="13" lean-forward="true" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+              <caret line="12" column="50" selection-start-line="12" selection-start-column="50" selection-end-line="12" selection-end-column="50" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Iteration.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/Test/TargetnumberTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="26" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
+            <state relative-caret-position="294">
+              <caret line="40" column="23" selection-start-line="40" selection-start-column="23" selection-end-line="40" selection-end-column="23" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#214#215#0" expanded="true" />
+                <element signature="e#262#263#0" expanded="true" />
+                <element signature="e#318#319#0" expanded="true" />
+                <element signature="e#350#351#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -103,33 +82,33 @@
         <option value="$PROJECT_DIR$/src/OddorEven.java" />
         <option value="$PROJECT_DIR$/src/Sort.java" />
         <option value="$PROJECT_DIR$/src/main/java/OddorEven.java" />
-        <option value="$PROJECT_DIR$/src/main/Test/OddorEvenTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/Palindrome.java" />
-        <option value="$PROJECT_DIR$/src/main/Test/PalindromeTest.java" />
         <option value="$PROJECT_DIR$/src/main/Test/VowelConsonantTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/VowelConsonant.java" />
-        <option value="$PROJECT_DIR$/src/main/Test/CapitalLetterTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/CapitalLetter.java" />
         <option value="$PROJECT_DIR$/src/main/java/CharacterRepeat.java" />
-        <option value="$PROJECT_DIR$/src/main/Test/StringreverseTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/Stringreverse.java" />
         <option value="$PROJECT_DIR$/src/main/java/AddUnspecifiedInputs.java" />
         <option value="$PROJECT_DIR$/src/main/Test/AddUnspecifiedInputsTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/Sort.java" />
-        <option value="$PROJECT_DIR$/src/main/Test/SortTest.java" />
-        <option value="$PROJECT_DIR$/src/main/Test/TargetnumberTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/Targetnumber.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Iteration.java" />
+        <option value="$PROJECT_DIR$/src/main/java/CapitalLetter.java" />
+        <option value="$PROJECT_DIR$/src/main/Test/CapitalLetterTest.java" />
         <option value="$PROJECT_DIR$/src/main/Test/CharacterRepeatTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Iteration.java" />
         <option value="$PROJECT_DIR$/src/main/Test/IterationTest.java" />
+        <option value="$PROJECT_DIR$/src/main/Test/OddorEvenTest.java" />
+        <option value="$PROJECT_DIR$/src/main/Test/PalindromeTest.java" />
+        <option value="$PROJECT_DIR$/src/main/Test/SortTest.java" />
+        <option value="$PROJECT_DIR$/src/main/Test/StringreverseTest.java" />
+        <option value="$PROJECT_DIR$/src/main/Test/TargetnumberTest.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="698" />
-    <option name="y" value="61" />
-    <option name="width" value="744" />
-    <option name="height" value="833" />
+    <option name="x" value="471" />
+    <option name="y" value="132" />
+    <option name="width" value="1041" />
+    <option name="height" value="768" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -138,6 +117,7 @@
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -174,7 +154,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -207,50 +186,50 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.IterationTest.givenOneStringShouldReturnTypeException">
-    <configuration name="CharacterRepeatTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.TargetnumberTest.givenZeroShouldReturn">
+    <configuration name="SortTest.givenLongShouldReturnLong" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="sample" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="CharacterRepeatTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CharacterRepeatTest.givenNullStringShouldReturnNull" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="sample" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="CharacterRepeatTest" />
-      <option name="METHOD_NAME" value="givenNullStringShouldReturnNull" />
+      <option name="MAIN_CLASS_NAME" value="SortTest" />
+      <option name="METHOD_NAME" value="givenLongShouldReturnLong" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IterationTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="SortTest.givenShouldReturn" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="sample" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="IterationTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="IterationTest.givenOneStringShouldReturnInteger" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="sample" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="IterationTest" />
-      <option name="METHOD_NAME" value="givenOneStringShouldReturnInteger" />
+      <option name="MAIN_CLASS_NAME" value="SortTest" />
+      <option name="METHOD_NAME" value="givenShouldReturn" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IterationTest.givenOneStringShouldReturnTypeException" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="StringreverseTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="sample" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="IterationTest" />
-      <option name="METHOD_NAME" value="givenOneStringShouldReturnTypeException" />
+      <option name="MAIN_CLASS_NAME" value="StringreverseTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TargetnumberTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="sample" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TargetnumberTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TargetnumberTest.givenZeroShouldReturn" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="sample" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TargetnumberTest" />
+      <option name="METHOD_NAME" value="givenZeroShouldReturn" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -258,11 +237,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.IterationTest.givenOneStringShouldReturnTypeException" />
-        <item itemvalue="JUnit.IterationTest.givenOneStringShouldReturnInteger" />
-        <item itemvalue="JUnit.CharacterRepeatTest.givenNullStringShouldReturnNull" />
-        <item itemvalue="JUnit.CharacterRepeatTest" />
-        <item itemvalue="JUnit.IterationTest" />
+        <item itemvalue="JUnit.TargetnumberTest.givenZeroShouldReturn" />
+        <item itemvalue="JUnit.StringreverseTest" />
+        <item itemvalue="JUnit.TargetnumberTest" />
+        <item itemvalue="JUnit.SortTest.givenLongShouldReturnLong" />
+        <item itemvalue="JUnit.SortTest.givenShouldReturn" />
       </list>
     </recent_temporary>
   </component>
@@ -280,42 +259,42 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="IterationTest_givenOneStringShouldReturnInteger - 2019.06.27 at 11h 48m 47s.xml">
-      <configuration name="IterationTest.givenOneStringShouldReturnInteger" configurationId="JUnit" />
+    <history-entry file="IterationTest_givenZeroShouldReturnZero - 2019.07.03 at 12h 51m 12s.xml">
+      <configuration name="IterationTest.givenZeroShouldReturnZero" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="IterationTest_givenOneStringShouldReturnInteger - 2019.06.27 at 11h 56m 42s.xml">
-      <configuration name="IterationTest.givenOneStringShouldReturnInteger" configurationId="JUnit" />
+    <history-entry file="OddorEvenTest_givenBoundaryNumberShouldReturnMessage - 2019.07.03 at 12h 55m 47s.xml">
+      <configuration name="OddorEvenTest.givenBoundaryNumberShouldReturnMessage" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="IterationTest_givenOneStringShouldReturnInteger - 2019.06.27 at 11h 57m 24s.xml">
-      <configuration name="IterationTest.givenOneStringShouldReturnInteger" configurationId="JUnit" />
+    <history-entry file="OddorEvenTest_givenBoundaryNumberShouldReturnMessage - 2019.07.03 at 12h 56m 13s.xml">
+      <configuration name="OddorEvenTest.givenBoundaryNumberShouldReturnMessage" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="IterationTest_givenOneStringShouldReturnInteger - 2019.06.27 at 23h 45m 33s.xml">
-      <configuration name="IterationTest.givenOneStringShouldReturnInteger" configurationId="JUnit" />
+    <history-entry file="OddorEvenTest_givenNumberShouldReturnMessage - 2019.07.03 at 12h 57m 11s.xml">
+      <configuration name="OddorEvenTest.givenNumberShouldReturnMessage" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="IterationTest_givenOneStringShouldReturnInteger - 2019.06.28 at 08h 18m 05s.xml">
-      <configuration name="IterationTest.givenOneStringShouldReturnInteger" configurationId="JUnit" />
+    <history-entry file="PalindromeTest - 2019.07.03 at 12h 59m 29s.xml">
+      <configuration name="PalindromeTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CharacterRepeatTest - 2019.06.28 at 08h 22m 47s.xml">
-      <configuration name="CharacterRepeatTest" configurationId="JUnit" />
+    <history-entry file="SortTest - 2019.07.03 at 13h 01m 32s.xml">
+      <configuration name="SortTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CharacterRepeatTest_givenNullStringShouldReturnNull - 2019.06.28 at 08h 24m 16s.xml">
-      <configuration name="CharacterRepeatTest.givenNullStringShouldReturnNull" configurationId="JUnit" />
+    <history-entry file="SortTest_givenShouldReturn - 2019.07.03 at 14h 04m 12s.xml">
+      <configuration name="SortTest.givenShouldReturn" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="IterationTest_givenOneStringShouldReturnInteger - 2019.06.28 at 08h 25m 18s.xml">
-      <configuration name="IterationTest.givenOneStringShouldReturnInteger" configurationId="JUnit" />
+    <history-entry file="SortTest_givenShouldReturn - 2019.07.03 at 14h 04m 14s.xml">
+      <configuration name="SortTest.givenShouldReturn" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="IterationTest_givenOneStringShouldReturnTypeException - 2019.06.28 at 08h 26m 38s.xml">
-      <configuration name="IterationTest.givenOneStringShouldReturnTypeException" configurationId="JUnit" />
+    <history-entry file="TargetnumberTest - 2019.07.03 at 14h 50m 35s.xml">
+      <configuration name="TargetnumberTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="IterationTest_givenOneStringShouldReturnTypeException - 2019.06.28 at 08h 31m 51s.xml">
-      <configuration name="IterationTest.givenOneStringShouldReturnTypeException" configurationId="JUnit" />
+    <history-entry file="StringreverseTest - 2019.07.03 at 14h 50m 40s.xml">
+      <configuration name="StringreverseTest" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1533" height="875" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25891057" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27034298" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -324,7 +303,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.328877" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.29088473" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.29088473" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3994638" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -362,20 +341,6 @@
     <entry file="file://$USER_HOME$/stackroute/src/main/java/com/stackroute/junitdemo/App.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/OddorEven.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="19" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Palindrome.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="31" lean-forward="true" selection-start-line="17" selection-start-column="31" selection-end-line="17" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/VowelConsonant.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
@@ -391,27 +356,6 @@
     <entry file="file://$USER_HOME$/Datamunger/DataMungerStep1_Boilerplate/src/com/stackroute/datamunger/test/DataMungerTestTask1.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/CapitalLetter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="98" selection-start-line="12" selection-start-column="98" selection-end-line="12" selection-end-column="98" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Stringreverse.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/AddUnspecifiedInputs.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="1" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/stackroute/src/main/test/com/stackroute/junitdemo/AppTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="301">
@@ -419,101 +363,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Sort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="416">
-          <caret line="41" column="2" selection-start-line="41" selection-start-column="2" selection-end-line="41" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Targetnumber.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="12" column="50" selection-start-line="12" selection-start-column="50" selection-end-line="12" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/Test/OddorEvenTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="5" lean-forward="true" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/CharacterRepeat.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="64" selection-start-line="9" selection-start-column="64" selection-end-line="9" selection-end-column="64" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/Test/TargetnumberTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="8" column="23" lean-forward="true" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/Test/StringreverseTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="441">
-          <caret line="34" column="25" selection-start-line="34" selection-start-column="25" selection-end-line="34" selection-end-column="25" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/Test/SortTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="351">
-          <caret line="32" column="22" selection-start-line="32" selection-start-column="22" selection-end-line="32" selection-end-column="22" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/Test/CharacterRepeatTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="50" selection-start-line="20" selection-start-column="50" selection-end-line="20" selection-end-column="50" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/Test/AddUnspecifiedInputsTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="450">
           <caret line="30" column="30" selection-start-line="30" selection-start-column="30" selection-end-line="30" selection-end-column="30" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/Test/PalindromeTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="20" column="27" selection-start-line="20" selection-start-column="27" selection-end-line="20" selection-end-column="27" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/Test/CapitalLetterTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="495">
-          <caret line="51" column="28" selection-start-line="51" selection-start-column="28" selection-end-line="51" selection-end-column="28" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -530,19 +383,169 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Iteration.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/CapitalLetter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="26" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
+        <state relative-caret-position="45">
+          <caret line="3" column="52" selection-start-line="3" selection-start-column="52" selection-end-line="3" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/AddUnspecifiedInputs.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/Test/CapitalLetterTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="22" lean-forward="true" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/Test/CharacterRepeatTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="34" column="5" selection-start-line="34" selection-start-column="5" selection-end-line="34" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/CharacterRepeat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="64" selection-start-line="9" selection-start-column="64" selection-end-line="9" selection-end-column="64" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/Test/IterationTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="13" lean-forward="true" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        <state relative-caret-position="294">
+          <caret line="37" column="48" selection-start-line="37" selection-start-column="48" selection-end-line="37" selection-end-column="48" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#238#239#0" expanded="true" />
+            <element signature="e#273#274#0" expanded="true" />
+            <element signature="e#253#254#0" expanded="true" />
+            <element signature="e#277#278#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/Test/OddorEvenTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="33" column="44" selection-start-line="33" selection-start-column="44" selection-end-line="33" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#180#181#0" expanded="true" />
+            <element signature="e#217#218#0" expanded="true" />
+            <element signature="e#238#239#0" expanded="true" />
+            <element signature="e#264#265#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/OddorEven.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="19" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/Test/PalindromeTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="474">
+          <caret line="32" column="62" selection-start-line="32" selection-start-column="62" selection-end-line="32" selection-end-column="62" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#180#181#0" expanded="true" />
+            <element signature="e#198#199#0" expanded="true" />
+            <element signature="e#189#190#0" expanded="true" />
+            <element signature="e#227#228#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Palindrome.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="31" lean-forward="true" selection-start-line="17" selection-start-column="31" selection-end-line="17" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Iteration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="13" lean-forward="true" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Sort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="615">
+          <caret line="41" column="2" selection-start-line="41" selection-start-column="2" selection-end-line="41" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/Test/SortTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="521">
+          <caret line="35" column="5" selection-start-line="35" selection-start-column="5" selection-end-line="35" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#189#190#0" expanded="true" />
+            <element signature="e#221#222#0" expanded="true" />
+            <element signature="e#265#266#0" expanded="true" />
+            <element signature="e#282#283#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Stringreverse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Targetnumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="12" column="50" selection-start-line="12" selection-start-column="50" selection-end-line="12" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/Test/StringreverseTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="20" lean-forward="true" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#246#247#0" expanded="true" />
+            <element signature="e#286#287#0" expanded="true" />
+            <element signature="e#330#331#0" expanded="true" />
+            <element signature="e#340#341#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/Test/TargetnumberTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="40" column="23" selection-start-line="40" selection-start-column="23" selection-end-line="40" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#214#215#0" expanded="true" />
+            <element signature="e#262#263#0" expanded="true" />
+            <element signature="e#318#319#0" expanded="true" />
+            <element signature="e#350#351#0" expanded="true" />
           </folding>
         </state>
       </provider>

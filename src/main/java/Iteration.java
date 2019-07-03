@@ -1,5 +1,6 @@
 public class Iteration {
        public static String finditeration(Integer number) {
+
            String result="";
         for(int i=1;i<=number;i++)//for loop for n-th iteration
         {
